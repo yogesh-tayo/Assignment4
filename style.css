@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(155, 96, 7);
+
+}
+.wo{
+    float: left;
+    size: 20px;
+}
+.image{
+    float: right;
+}
